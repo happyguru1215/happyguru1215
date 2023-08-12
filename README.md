@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**top2hightech/top2hightech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Full Stack Developer with more than 6+ years of experience in designing and developing scalable Applications. 
+I am excited and enthusiastic about using technology for good, creating equality, and helping people from all occupations. 
 
-Here are some ideas to get you started:
+Technologies:
+-Frontend skills
+● React.js 
+● Next.js
+● Vue.js 
+● HTML, CSS, SCSS, Bootstrap, Styled components, MUI, Ant Design
+● TypeScript
+● WebPack, NPM, Yarn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Backend skills
+● Node.js
+● Laravel
+● Spring Boot
+● MySQL, Elasticsearch, MongoDB, PostgreSQL, SQL
+● Amazon Web Services
+● Firebase
+● CORS
+
+- 📫 How to reach me: top2hightech@gmail.com
