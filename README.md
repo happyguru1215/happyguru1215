@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/top2hightech">
-    <img src="https://github.com//top2hightech/assets/header.png" alt="header" /></a>
+    <img src="https://github.com//top2hightech/header.png" alt="header" /></a>
 </p>
 
 <p align="center">
