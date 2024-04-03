@@ -12,9 +12,10 @@
 </p>
 
 <div>
-  <img align="right" alt="GIF" src="https://github.com/top2hightech/top2hightech/blob/main/code.gif?raw=true" width="300" alt="coding" />
+  <img align="right" alt="GIF" src="https://github.com/top2hightech/top2hightech/blob/main/code.gif?raw=true" width="400" alt="coding" />
 
   ### Frontend skills
+  
 	- React.js, React Native, Next.js, Redux-Saga, Redux-Thunk, Angular, PHP
   	- HTML5, CSS3, SASS / Bootstrap, Styled components, MUI, Ant Design
   	- JavaScript, jQuery, Ajax
@@ -23,6 +24,7 @@
   	- WebPack, NPM, Yarn
 
   ### Backend skills
+  
 	- Node.js / Express
 	- Python / Django, Flask
 	- PHP/Laravel
