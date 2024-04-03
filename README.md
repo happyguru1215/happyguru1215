@@ -12,7 +12,7 @@
 </p>
 
 <div>
-  <img align="right" alt="GIF" src="https://github.com/top2hightech/top2hightech/blob/main/code.gif?raw=true" width="400" height="400" alt="coding" />
+  <img align="right" alt="GIF" src="https://github.com/top2hightech/top2hightech/blob/main/code.gif?raw=true" width="300" alt="coding" />
 
   ### Frontend skills
 	- React.js, React Native, Next.js, Redux-Saga, Redux-Thunk, Angular, PHP
