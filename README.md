@@ -11,24 +11,25 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;9%2B%20years%20of%20coding%20experience;Always%20learning%20trending%20techs&font=Fira%20Code&center=true&width=440&height=45&color=lean&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<div>
+  <img align="right" alt="GIF" src="https://github.com/top2hightech/top2hightech/blob/main/code.gif?raw=true" width="400" height="420" alt="coding" />
 
-- 📫Frontend skills
+  ### Frontend skills
 	- React.js, React Native, Next.js, Redux-Saga, Redux-Thunk, Angular, PHP
-  - HTML5, CSS3, SASS / Bootstrap, Styled components, MUI, Ant Design
-  - JavaScript, jQuery, Ajax
-  - TypeScript
-  - Ant Design / Material Design / LESS / SASS
-  - WebPack, NPM, Yarn
-  
+  	- HTML5, CSS3, SASS / Bootstrap, Styled components, MUI, Ant Design
+  	- JavaScript, jQuery, Ajax
+  	- TypeScript
+  	- Ant Design / Material Design / LESS / SASS
+  	- WebPack, NPM, Yarn
 
-- 📫 Backend skills
-  - Node.js / Express
-  - Python / Django, Flask
-  - PHP/Laravel
-  - Java/Spring
-  - MySQL, Elasticsearch, MongoDB, PostgreSQL, SQL
-  - Amazon Web Services, Firebase
-
+  ### Backend skills
+	- Node.js / Express
+	- Python / Django, Flask
+	- PHP/Laravel
+	- Java/Spring
+	- MySQL, Elasticsearch, MongoDB, PostgreSQL, SQL
+	- Amazon Web Services, Firebase
+</div>
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
