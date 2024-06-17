@@ -16,7 +16,7 @@
   # Frontend skills
 	- React.js, React Native, Next.js, Redux-Saga, Redux-Thunk
 	- Svelte, Angular, Lit
-  	- HTML5, CSS3, SASS / Bootstrap, Styled components, MUI, Ant Design
+  	- HTML5, CSS3, SASS / Bootstrap, Styled components
   	- JavaScript, jQuery, Ajax
   	- TypeScript
   	- Ant Design / Material Design / LESS / SASS
