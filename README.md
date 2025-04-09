@@ -17,18 +17,26 @@
 	- React.js, React Native, Next.js, Redux-Saga, Redux-Thunk
 	- Svelte, Angular, Lit
   	- HTML5, CSS3, SASS / Bootstrap, Styled components
-  	- JavaScript, jQuery, Ajax
-  	- TypeScript
-  	- Ant Design / Material Design / LESS / SASS
+  	- JavaScript, TypeScript, jQuery, Ajax
+  	- Tailwind CSS / Shadcn UI / Ant Design / Material Design / LESS / SASS
   	- WebPack, NPM, Yarn
 
   # Backend skills
-	- Node.js / Express
+	- Node.js / Express / Nest.js
 	- Python / Django, Flask
 	- PHP/Laravel
 	- Java/Spring
 	- MySQL, Elasticsearch, MongoDB, PostgreSQL, SQL
 	- Amazon Web Services, Firebase
+    - Firebase, Supabase
+
+  # AI skills
+    - OpenAI - GPT-3, GPT-4, GPT-4o, GPT-4o mini
+    - DeepSeek AI
+    - Langchain
+    - Vercel AI sdk
+    - Pinecone, Upstash, Astra and other vector dbs.
+    - Voice AI: Deepgram, ElevenLabs, Vapi AI, Retell AI, Bland AI and etc
 </div>
 
 # 💻 My favorite tools and technologies
@@ -155,7 +163,7 @@
 </table>
 <br><br>
 
-- 📫 How to reach me: top2hightech@gmail.com
+- 📫 How to reach me: happyguru1215@gmail.com
 
 </div>
 <br/>  
